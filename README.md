@@ -127,3 +127,6 @@ Feel free to open an issue or submit a pull request if you'd like to improve the
 تمام تحلیل‌ها در پوشه `notebooks/` قرار دارند، از جمله پاکسازی داده، تحلیل اکتشافی، تحلیل زمانی، مقایسه کشورها، و تحلیل منطقه‌ای.
 
 All analyses are located in the `notebooks/` folder, including data cleaning, exploratory analysis, time series analysis, country comparison, and regional insights.
+
+
+هم چنین برای پاکسازی داده از ماژول های تعریف در فایل cleaning_modules.py که در پوشه `notebooks/` قرار دارد استقاده شده
